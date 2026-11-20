@@ -1,4 +1,4 @@
-# BIT 2118: Scientific Computing - Group Work
+# BIT 2118: Scientific Computing - Group 6
 
 **Group members:**
 
